@@ -93,27 +93,27 @@ departament[cod\_departament, nume\_departament];
 
 ANGAJAT:
 
-![](images.6.1.png)
+![](images/6.1.png)
 
 CAMERA:
 
-![](images.6.2.png)
+![](images/6.2.png)
 
 CLIENT:
 
-![](images.6.3.png)
+![](images/6.3.png)
 
 DEPARTAMENT:
 
-![](images.6.4.png)
+![](images/6.4.png)
 
 FURNIZOR:
 
-![](images.6.5.png)
+![](images/6.5.png)
 
 REZERVARE:
 
-![](images.6.6.png)
+![](images/6.6.png)
 
 # 7. Tehnologii folosite:
 
@@ -128,14 +128,14 @@ REZERVARE:
 
 Login:
 
-![](images.8.1.png)
+![](images/8.1.png)
 
 Aplicatie in mod utilizator:
 
-![](images.8.2.png)
+![](images/8.2.png)
 
 Aplicatie in mod Admin:
 
-![](images.8.3.png)
+![](images/8.3.png)
 
 Proiect Proiectarea Aplicațiilor Orientate pe Obiecte
