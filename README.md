@@ -4,7 +4,7 @@ FACULTATEA DE AUTOMATICĂ, CALCULATOARE, INGINERIE ELECTRICĂ ȘI ELECTRONICĂ
 
 # Proiect Proiectarea Aplicațiilor Orientate pe Obiecte
 
-# ~Gestiunea unui Hotel~
+# Gestiunea unui Hotel
 
 Coordonator,
 
@@ -93,27 +93,27 @@ departament[cod\_departament, nume\_departament];
 
 ANGAJAT:
 
-![](RackMultipart20230531-1-tlvwa1_html_eae98210fb9db8e.png)
+![](images.6.1.png)
 
 CAMERA:
 
-![](RackMultipart20230531-1-tlvwa1_html_23b677101c9e89e7.png)
+![](images.6.2.png)
 
 CLIENT:
 
-![](RackMultipart20230531-1-tlvwa1_html_5b9991d8f3de86e3.png)
+![](images.6.3.png)
 
 DEPARTAMENT:
 
-![](RackMultipart20230531-1-tlvwa1_html_4ca5f969b088eede.png)
+![](images.6.4.png)
 
 FURNIZOR:
 
-![](RackMultipart20230531-1-tlvwa1_html_a6ded26b99c221a7.png)
+![](images.6.5.png)
 
 REZERVARE:
 
-![](RackMultipart20230531-1-tlvwa1_html_e088e3461747833f.png)
+![](images.6.6.png)
 
 # 7. Tehnologii folosite:
 
@@ -128,14 +128,14 @@ REZERVARE:
 
 Login:
 
-![](RackMultipart20230531-1-tlvwa1_html_136c82c1d99fc001.png)
+![](images.8.1.png)
 
 Aplicatie in mod utilizator:
 
-![](RackMultipart20230531-1-tlvwa1_html_cb24aba9eee20027.png)
+![](images.8.2.png)
 
 Aplicatie in mod Admin:
 
-![](RackMultipart20230531-1-tlvwa1_html_58ac939f65543ca4.png)
+![](images.8.3.png)
 
 Proiect Proiectarea Aplicațiilor Orientate pe Obiecte
