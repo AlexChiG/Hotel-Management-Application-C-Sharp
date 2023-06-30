@@ -1,5 +1,4 @@
 # Gestiunea unui Hotel
-#
 # **Cuprins**
 
 [1. Tema 3](#_Toc136115918)
