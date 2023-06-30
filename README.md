@@ -1,25 +1,4 @@
-![](RackMultipart20230531-1-tlvwa1_html_fcaf71cc881cb8e8.jpg) ![](RackMultipart20230531-1-tlvwa1_html_5301af89b4f72d25.png)UNIVERSITATEA „DUNĂREA DE JOS" DIN GALAȚI
-
-FACULTATEA DE AUTOMATICĂ, CALCULATOARE, INGINERIE ELECTRICĂ ȘI ELECTRONICĂ
-
-# Proiect Proiectarea Aplicațiilor Orientate pe Obiecte
-
 # Gestiunea unui Hotel
-
-Coordonator,
-
-Cristina Elena Anton
-
-Student,
-
-Chitiga Alexandru Gabriel
-
-ANUL III CTI
-
-GRUPA 22C32 A
-
-AN 2022-2023
-
 #
 # **Cuprins**
 
